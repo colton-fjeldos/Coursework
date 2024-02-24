@@ -1,0 +1,5 @@
+Date: 2/5/2024
+Assignment: Create a brainf*** interpreter using Java.
+Context: This assignment was a simple brainf*** interpreter. 
+  Brainf*** is a simple, turing-machine like language that has no practical application.
+Use: A file name is passed as a command line argument, the interpreter opens the file, and interprets the brainf*** program.
